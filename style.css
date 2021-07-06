@@ -9,8 +9,11 @@ h1{
 }
 .foodblog{
      display: flex;
-    background-image: url(images/shapes/Frame\ 59.jpg);
+    
     }
+ .background{ 
+     background-image: url(images/shapes/Frame\ 59.jpg);
+ }
    p{
         font-size: 20px;
    }  
@@ -35,9 +38,37 @@ button{
      width: 140px;
      height: 50px;
      border-radius: 30px;
+     border: transparent 2px solid;
 }
 a{
      text-decoration: none;
      font-size: 20px;
      color: burlywood;
+}
+#secondimage{
+     width: 50%;
+}
+.seconddiv{
+    box-sizing: border-box;
+     padding-top: 50px;
+     
+     
+}
+h2{
+     font-size: 35px;
+}
+
+#size{
+     padding-left: 20px;
+}
+.image2{
+    padding-left: 200px;
+    padding-top: 50px;
+    width: 50%;
+}
+.section2{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+    margin-top: 50px;
 }
