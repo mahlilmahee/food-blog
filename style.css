@@ -71,3 +71,24 @@ h2{
     margin-top: 50px;
     padding: 0px;
 }
+#recipies{
+    width: 600px;
+    text-align: center;
+    margin: 2px auto;
+}
+#three{width: 270px;
+      height: 200px;
+      border-radius: 30px;
+      
+}
+.three{
+      width: 20%;
+      padding: 37px;
+      box-shadow: 10px 10px 20px gray;
+      margin-right: 45px;
+      border-radius: 40px;
+}
+#side{
+      margin-left: 100px;
+}
+
