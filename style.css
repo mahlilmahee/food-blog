@@ -50,9 +50,7 @@ a{
 }
 .seconddiv{
     box-sizing: border-box;
-     padding-top: 50px;
-     
-     
+     padding-top: 50px;   
 }
 h2{
      font-size: 35px;
@@ -68,7 +66,8 @@ h2{
 }
 .section2{
     background-image: url(images/shapes/7.png);
+    background-size: cover;
     background-repeat: no-repeat;
-    
     margin-top: 50px;
+    padding: 0px;
 }
