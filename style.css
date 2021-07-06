@@ -1,0 +1,43 @@
+span{
+     color:crimson ;
+}
+h1{
+    font-family: 'Uchen', serif;
+    font-size: 45px; 
+    line-height: 20px;
+    font-weight: 700;
+}
+.foodblog{
+     display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    }
+   p{
+        font-size: 20px;
+   }  
+.food-model{
+    
+    width: 45%;
+    box-sizing: border-box;
+   
+    }
+ #text{
+      padding-top: 200px;
+      padding-left: 30px;
+      margin-left: 5%;}
+#img{
+     width: 100%;
+}
+#height{
+     padding-top: 40px;
+}
+button{
+     background-image: linear-gradient(orange,red);
+     width: 140px;
+     height: 50px;
+     border-radius: 30px;
+}
+a{
+     text-decoration: none;
+     font-size: 20px;
+     color: burlywood;
+}
